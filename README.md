@@ -5,7 +5,7 @@ Submit names by adding them in README.md as per given format at end of this file
 
 Note: Please maintain the below list in alphabetical order.
 
-- Dhruv Patel 
+- Dhruv Patel (Ahmedabad, India)
   - [GitHub](https://github.com/DearDhruv)
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
   - [Medium](https://medium.com/@DearDhruv)
@@ -16,7 +16,7 @@ Note: Please maintain the below list in alphabetical order.
 
 Format: 
 
-- YOUR NAME 
+- YOUR NAME (City, Country)
   - [GitHub](your github link)
   - [Stackoverflow](your stackoverflow link)
   - [Medium](your medium link)
