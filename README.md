@@ -34,8 +34,6 @@ Submit names by adding them in README.md as per given format at end of this file
 
 ----------
 
-**Again, Please maintain the above list in alphabetical order.**
-
 Format: 
 - Name (City, Country)
   - [GitHub](your github link)
