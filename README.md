@@ -34,12 +34,7 @@ Submit names by adding them in README.md as per given format at end of this file
 
 ----------
 
-Format: 
-- Name (City, Country)
-  - [GitHub](your github link)
-  - [Stackoverflow](your stackoverflow link)
-  - [Medium](your medium link)
- 
+
  ## Rules
  
  - Your PR title must be one of below
@@ -49,6 +44,12 @@ Format:
  - List must be ordered **alphabeticaly**.
  
  Any PRs which does not follow above rules, will not be merged in any of the case.
+
+ Format: 
+ - Name (City, Country)
+   - [GitHub](your github link)
+   - [Stackoverflow](your stackoverflow link)
+   - [Medium](your medium link)
  
  You can fork and send Pull Request. 
  
