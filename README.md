@@ -26,7 +26,7 @@ Note: Please maintain the below list in alphabetical order.
 ----------
 Format: 
 
-- Name(City, Country)
+- Name (City, Country)
   - [GitHub](your github link)
   - [Stackoverflow](your stackoverflow link)
   - [Medium](your medium link)
