@@ -15,7 +15,11 @@ Note: Please maintain the below list in alphabetical order.
   - [Stackoverflow](https://stackoverflow.com/users/3134215/ravi-rupareliya)
   - [Medium](https://medium.com/@ravirupareliya)
   
-  
+- Kavan Pancholi (Ahmedabad, India)
+  - [GitHub](https://github.com/kavanpancholi)
+  - [Stackoverflow](https://stackoverflow.com/users/2893123/kavan-pancholi)
+  - [Medium](http://medium.com/@kavanpancholi)
+
 
 
 ----------
