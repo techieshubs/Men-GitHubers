@@ -20,8 +20,10 @@ Note: Please maintain the below list in alphabetical order.
   - [Stackoverflow](https://stackoverflow.com/users/3134215/ravi-rupareliya)
   - [Medium](https://medium.com/@ravirupareliya)
   
-  
-
+- Tirth Patel (Ahmedabad, India)
+  - [GitHub](https://github.com/piedcipher)
+  - [Stackoverflow](https://stackoverflow.com/users/4593315/tirth-patel)
+  - [Medium](https://medium.com/@piedcipher)
 
 ----------
 Format: 
