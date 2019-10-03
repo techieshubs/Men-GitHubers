@@ -3,7 +3,7 @@ Let's collect the data of men on GitHub, who inspired you to code more.
 
 Submit names by adding them in README.md as per given format at end of this file.
 
-Note: Please maintain the below list in alphabetical order.
+**Note: Please maintain the below list in alphabetical order.**
 
 - Bipin Vayalu (Ahmedabad, India)
   - [GitHub](https://github.com/bipinvaylu)
@@ -31,13 +31,14 @@ Note: Please maintain the below list in alphabetical order.
   - [Medium](https://medium.com/@piedcipher)
 
 ----------
-Format: 
 
+**Again, Please maintain the above list in alphabetical order.**
+
+Format: 
 - Name (City, Country)
   - [GitHub](your github link)
   - [Stackoverflow](your stackoverflow link)
   - [Medium](your medium link)
- 
  
  You can fork and send Pull Request. 
  
