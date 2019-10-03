@@ -10,6 +10,11 @@ Note: Please maintain the below list in alphabetical order.
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
   - [Medium](https://medium.com/@DearDhruv)
   
+  - Fenil Patel (Ahmedabad, India)
+  - [GitHub](https://github.com/Fenscode)
+  - [Stackoverflow](https://stackoverflow.com/users/8769330/fenil-patel)
+  - [Medium](https://medium.com/@fenilpatel23)
+  
 - Pratik Butani (Ahmedabad, India)
   - [GitHub](https://github.com/pratikbutani)
   - [Stackoverflow](https://stackoverflow.com/users/1318946/pratik-butani)
@@ -24,11 +29,6 @@ Note: Please maintain the below list in alphabetical order.
   - [GitHub](https://github.com/piedcipher)
   - [Stackoverflow](https://stackoverflow.com/users/4593315/tirth-patel)
   - [Medium](https://medium.com/@piedcipher)
-
-- Fenil Patel (Ahmedabad, India)
-  - [GitHub](https://github.com/Fenscode)
-  - [Stackoverflow](https://stackoverflow.com/users/8769330/fenil-patel)
-  - [Medium](https://medium.com/@fenilpatel23)
 ----------
 Format: 
 
