@@ -1,10 +1,15 @@
 # Men-GitHubers
 Let's collect the data of men on GitHub, who inspired you to code more.
 
-Submit names by adding them in README.md as per given format at end of this file.
+- [Contribution Guideline](https://github.com/pratikbutani/Men-GitHubers/blob/master/Contributing.md)
 
-Note: Please maintain the below list in alphabetical order.
+## Content
 
+- Bipin Vayalu (Ahmedabad, India)
+  - [GitHub](https://github.com/bipinvaylu)
+  - [Stackoverflow](https://stackoverflow.com/users/722683/bipin-vayalu)
+  - [Medium](https://medium.com/@bipinvayalu)
+  
 - Dhruv Patel (Ahmedabad, India)
   - [GitHub](https://github.com/DearDhruv)
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
@@ -29,6 +34,7 @@ Note: Please maintain the below list in alphabetical order.
   - [GitHub](https://github.com/piedcipher)
   - [Stackoverflow](https://stackoverflow.com/users/4593315/tirth-patel)
   - [Medium](https://medium.com/@piedcipher)
+
 ----------
 Format: 
 
@@ -37,7 +43,8 @@ Format:
   - [Stackoverflow](your stackoverflow link)
   - [Medium](your medium link)
  
+=======
  
- You can fork and send Pull Request. 
+ --------
  
- Share is caring <3 Keep loving. :)
+ Sharing is caring <3 Keep loving. :)
