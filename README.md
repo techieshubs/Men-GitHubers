@@ -27,6 +27,6 @@ Format:
   - [Medium](your medium link)
  
  
- You can fork and send me Pull Request with above format. 
+ You can fork and send me Pull Request. 
  
- Share is caring <3
+ Share is caring <3 Keep loving. :)
