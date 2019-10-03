@@ -14,4 +14,5 @@
    - Add [Your Name] Ex. Add Pratik Butani
  - It must be validated properly.
  - List must be ordered **alphabetically**.
+ 
  Any PRs which does not follow above rules, will not be merged in any of the case.
