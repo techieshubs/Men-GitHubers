@@ -5,6 +5,11 @@ Submit names by adding them in README.md as per given format at end of this file
 
 Note: Please maintain the below list in alphabetical order.
 
+- Bipin Vayalu (Ahmedabad, India)
+  - [GitHub](https://github.com/bipinvaylu)
+  - [Stackoverflow](https://stackoverflow.com/users/722683/bipin-vayalu)
+  - [Medium](https://medium.com/@bipinvayalu)
+  
 - Dhruv Patel (Ahmedabad, India)
   - [GitHub](https://github.com/DearDhruv)
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
