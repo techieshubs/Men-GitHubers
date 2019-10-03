@@ -35,6 +35,11 @@ Let's collect the data of men on GitHub, who inspired you to code more.
   - [Stackoverflow](https://stackoverflow.com/users/4593315/tirth-patel)
   - [Medium](https://medium.com/@piedcipher)
 
+- Yash Thakkar (Ahmedabad, India)
+  - [GitHub](https://github.com/yashthakkar1173)
+  - [Stackoverflow](https://stackoverflow.com/users/7727376/yashthakkar1173)
+  - [Medium](https://medium.com/@yashthakkar1173)
+
 ----------
 Format: 
 
