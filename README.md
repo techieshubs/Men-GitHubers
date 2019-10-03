@@ -10,6 +10,11 @@ Note: Please maintain the below list in alphabetical order.
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
   - [Medium](https://medium.com/@DearDhruv)
   
+- Pratik Butani (Ahmedabad, India)
+  - [GitHub](https://github.com/pratikbutani)
+  - [Stackoverflow](https://stackoverflow.com/users/1318946/pratik-butani)
+  - [Medium](https://medium.com/@pratikbutani)
+  
 - Ravi Rupareliya (Ahmedabad, India)
   - [GitHub](https://github.com/ravirupareliya)
   - [Stackoverflow](https://stackoverflow.com/users/3134215/ravi-rupareliya)
