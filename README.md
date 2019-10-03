@@ -3,7 +3,9 @@ Let's collect the data of men on GitHub, who inspired you to code more.
 
 Submit names by adding them in README.md as per given format at end of this file.
 
-**Note: Please maintain the below list in alphabetical order.**
+- [Rules](#rules)
+
+## Content
 
 - Bipin Vayalu (Ahmedabad, India)
   - [GitHub](https://github.com/bipinvaylu)
@@ -32,14 +34,23 @@ Submit names by adding them in README.md as per given format at end of this file
 
 ----------
 
-**Again, Please maintain the above list in alphabetical order.**
 
-Format: 
-- Name (City, Country)
-  - [GitHub](your github link)
-  - [Stackoverflow](your stackoverflow link)
-  - [Medium](your medium link)
+ ## Rules
+ 
+ - Your PR title must be one of below
+   - Adding [Your Name] Ex. Adding Pratik Butani
+   - Add [Your Name] Ex. Add Pratik Butani
+ - It must be validated properly.
+ - List must be ordered **alphabeticaly**.
+ 
+ Any PRs which does not follow above rules, will not be merged in any of the case.
+
+ Format: 
+ - Name (City, Country)
+   - [GitHub](your github link)
+   - [Stackoverflow](your stackoverflow link)
+   - [Medium](your medium link)
  
  You can fork and send Pull Request. 
  
- Share is caring <3 Keep loving. :)
+ Sharing is caring <3 Keep loving. :)
