@@ -10,7 +10,7 @@ Note: Please maintain the below list in alphabetical order.
   - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
   - [Medium](https://medium.com/@DearDhruv)
   
-  - Fenil Patel (Ahmedabad, India)
+- Fenil Patel (Ahmedabad, India)
   - [GitHub](https://github.com/Fenscode)
   - [Stackoverflow](https://stackoverflow.com/users/8769330/fenil-patel)
   - [Medium](https://medium.com/@fenilpatel23)
