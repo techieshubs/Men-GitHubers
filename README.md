@@ -5,40 +5,15 @@ Let's collect the data of men on GitHub, who inspired you to code more.
 
 ## Content
 
-- Bipin Vayalu (Ahmedabad, India)
-  - [GitHub](https://github.com/bipinvaylu)
-  - [Stackoverflow](https://stackoverflow.com/users/722683/bipin-vayalu)
-  - [Medium](https://medium.com/@bipinvayalu)
-  
-- Dhruv Patel (Ahmedabad, India)
-  - [GitHub](https://github.com/DearDhruv)
-  - [Stackoverflow](https://stackoverflow.com/users/596566/deardhruv)
-  - [Medium](https://medium.com/@DearDhruv)
-  
-- Fenil Patel (Ahmedabad, India)
-  - [GitHub](https://github.com/Fenscode)
-  - [Stackoverflow](https://stackoverflow.com/users/8769330/fenil-patel)
-  - [Medium](https://medium.com/@fenilpatel23)
-  
-- Pratik Butani (Ahmedabad, India)
-  - [GitHub](https://github.com/pratikbutani)
-  - [Stackoverflow](https://stackoverflow.com/users/1318946/pratik-butani)
-  - [Medium](https://medium.com/@pratikbutani)
-  
-- Ravi Rupareliya (Ahmedabad, India)
-  - [GitHub](https://github.com/ravirupareliya)
-  - [Stackoverflow](https://stackoverflow.com/users/3134215/ravi-rupareliya)
-  - [Medium](https://medium.com/@ravirupareliya)
-  
-- Tirth Patel (Ahmedabad, India)
-  - [GitHub](https://github.com/piedcipher)
-  - [Stackoverflow](https://stackoverflow.com/users/4593315/tirth-patel)
-  - [Medium](https://medium.com/@piedcipher)
-
-- Yash Thakkar (Ahmedabad, India)
-  - [GitHub](https://github.com/yashthakkar1173)
-  - [Stackoverflow](https://stackoverflow.com/users/7727376/yashthakkar1173)
-  - [Medium](https://medium.com/@yashthakkar1173)
+Name | Github | Medium | StackOverflow
+--- | --- | --- | ---
+Bipin Vayalu (Ahmedabad, India) | [bipinvaylu](https://github.com/bipinvaylu) | [@bipinvayalu](https://medium.com/@bipinvayalu) | [bipin-vayalu](https://stackoverflow.com/users/722683/bipin-vayalu)
+Dhruv Patel (Ahmedabad, India) | [DearDhruv](https://github.com/DearDhruv) | [@DearDhruv](https://medium.com/@DearDhruv) | [deardhruv](https://stackoverflow.com/users/596566/deardhruv)  
+Fenil Patel (Ahmedabad, India) | [Fenscode](https://github.com/Fenscode) | [@fenilpatel23](https://medium.com/@fenilpatel23) | [fenil-patel](https://stackoverflow.com/users/8769330/fenil-patel)
+Pratik Butani (Ahmedabad, India) | [pratikbutani](https://github.com/pratikbutani) | [@pratikbutani](https://medium.com/@pratikbutani) | [pratik-butani](https://stackoverflow.com/users/1318946/pratik-butani)
+Ravi Rupareliya (Ahmedabad, India) | [ravirupareliya](https://github.com/ravirupareliya) | [@ravirupareliya](https://medium.com/@ravirupareliya) | [ravi-rupareliya](https://stackoverflow.com/users/3134215/ravi-rupareliya)
+Tirth Patel (Ahmedabad, India) | [piedcipher](https://github.com/piedcipher) | [@piedcipher](https://medium.com/@piedcipher) | [tirth-patel](https://stackoverflow.com/users/4593315/tirth-patel)
+Yash Thakkar (Ahmedabad, India) | [yashthakkar1173](https://github.com/yashthakkar1173) | [@yashthakkar1173](https://medium.com/@yashthakkar1173) | [yashthakkar1173](https://stackoverflow.com/users/7727376/yashthakkar1173)
 
  --------
  

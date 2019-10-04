@@ -1,11 +1,9 @@
 # Contributing Guideline
 
 ## Format
- - Name (City, Country)
-   - [GitHub](your github link)
-   - [Stackoverflow](your stackoverflow link)
-   - [Medium](your medium link)
-   
+
+Name (City, Country) | [GitHub Username](your github link) | [SO Username](your stackoverflow link) | [Medium Username](your medium link)
+
  ## Rules
  
  - Your PR title must be one of below
