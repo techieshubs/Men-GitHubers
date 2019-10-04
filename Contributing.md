@@ -2,7 +2,7 @@
 
 ## Format
 
-Name (City, Country) | [GitHub Username](your github link) | [SO Username](your stackoverflow link) | [Medium Username](your medium link)
+Name (City, Country) | [GitHub Username](your github link) | [Medium Username](your medium link) | [SO Username](your stackoverflow link)
 
  ## Rules
  
