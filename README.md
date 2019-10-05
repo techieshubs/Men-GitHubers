@@ -14,6 +14,7 @@ Fenil Patel (Ahmedabad, India) | [Fenscode](https://github.com/Fenscode) | [@fen
 Kavan Pancholi (Ahmedabad, India) | [kavanpancholi](https://github.com/kavanpancholi) | [@kavanpancholi](https://medium.com/@kavanpancholi) | [kavan-pancholi](https://stackoverflow.com/users/2893123/kavan-pancholi)
 Pratik Butani (Ahmedabad, India) | [pratikbutani](https://github.com/pratikbutani) | [@pratikbutani](https://medium.com/@pratikbutani) | [pratik-butani](https://stackoverflow.com/users/1318946/pratik-butani)
 Ravi Rupareliya (Ahmedabad, India) | [ravirupareliya](https://github.com/ravirupareliya) | [@ravirupareliya](https://medium.com/@ravirupareliya) | [ravi-rupareliya](https://stackoverflow.com/users/3134215/ravi-rupareliya)
+Sahil Kumar (New Delhi, India) | [xsahil03x](https://github.com/xsahil03x) | [@xsahil03x](https://medium.com/@xsahil03x) | [sahil-kumar](https://stackoverflow.com/users/10036882/sahil-kumar)
 Tirth Patel (Ahmedabad, India) | [piedcipher](https://github.com/piedcipher) | [@piedcipher](https://medium.com/@piedcipher) | [tirth-patel](https://stackoverflow.com/users/4593315/tirth-patel)
 Yash Thakkar (Ahmedabad, India) | [yashthakkar1173](https://github.com/yashthakkar1173) | [@yashthakkar1173](https://medium.com/@yashthakkar1173) | [yashthakkar1173](https://stackoverflow.com/users/7727376/yashthakkar1173)
 
