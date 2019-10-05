@@ -20,4 +20,4 @@ Yash Thakkar (Ahmedabad, India) | [yashthakkar1173](https://github.com/yashthakk
  --------
  
 
- Sharing is caring <3 Keep loving. :)
+ Sharing is caring ❤️ Keep loving. 😊
