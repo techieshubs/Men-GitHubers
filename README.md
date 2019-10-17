@@ -16,7 +16,7 @@ Gabriel Peal (San Francisco, USA) | [gpeal](https://github.com/gpeal) | [@gpeal]
 Jake Wharton (Pittsburgh, USA) | [JakeWharton](https://github.com/JakeWharton) | [@jakewharton](https://medium.com/@jakewharton)  | [jake-wharton](https://stackoverflow.com/users/132047/jake-wharton)
 Janidu Jayasanka (Pannipitiya, Sri Lanka) | [BROjohnny](https://github.com/BROjohnny) | [@johnnyluther96](https://medium.com/@johnnyluther96) | [CODEjohnny](https://stackoverflow.com/users/10352327/janidu-jayasanka)
 Kavan Pancholi (Ahmedabad, India) | [kavanpancholi](https://github.com/kavanpancholi) | [@kavanpancholi](https://medium.com/@kavanpancholi) | [kavan-pancholi](https://stackoverflow.com/users/2893123/kavan-pancholi)
-Mark Murphy | [commonsguy](https://github.com/commonsguy) |   | [commonsguy](https://stackoverflow.com/users/115145/commonsware)
+Mark Murphy (Pennsylvania, United States) | [commonsguy](https://github.com/commonsguy) |   | [commonsguy](https://stackoverflow.com/users/115145/commonsware)
 [Mayur Sojitra](https://www.murait.com/) ([Surat, India](https://goo.gl/maps/hvbHAJekX5ro8Bh48)) | [mayursojitra](https://github.com/mayursojitra) | [@mayursojitra](https://medium.com/@mayursojitra) | [mayur-sojitra](https://stackoverflow.com/users/1865488/mayur-sojitra)
 Nikunj Paradva (Surat, India) | [fakefacebook](https://github.com/fakefacebook) | [@007.fakefacebook](https://medium.com/@007.fakefacebook) | [nikunj-paradva](https://stackoverflow.com/users/5773037/nikunj-paradva)
 [Pratik Butani](https://pratikbutani.com) (Ahmedabad, India) | [pratikbutani](https://github.com/pratikbutani) | [@pratikbutani](https://medium.com/@pratikbutani) | [pratik-butani](https://stackoverflow.com/users/1318946/pratik-butani)
