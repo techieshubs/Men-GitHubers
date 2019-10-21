@@ -15,6 +15,7 @@ Fenil Patel (Ahmedabad, India) | [Fenscode](https://github.com/Fenscode) | [@fen
 Gabriel Peal (San Francisco, USA) | [gpeal](https://github.com/gpeal) | [@gpeal](https://medium.com/@gpeal) 
 Jake Wharton (Pittsburgh, USA) | [JakeWharton](https://github.com/JakeWharton) | [@jakewharton](https://medium.com/@jakewharton)  | [jake-wharton](https://stackoverflow.com/users/132047/jake-wharton)
 Janidu Jayasanka (Pannipitiya, Sri Lanka) | [BROjohnny](https://github.com/BROjohnny) | [@johnnyluther96](https://medium.com/@johnnyluther96) | [CODEjohnny](https://stackoverflow.com/users/10352327/janidu-jayasanka)
+Kaushal Gosaliya (Ahmedabad, India) | [kaushalgosaliya5](https://github.com/kaushalgosaliya5) | [@kaushalgosaliya5](https://medium.com/@kaushalgosaliya5) |[kaushal-gosaliya](https://stackoverflow.com/users/7522273/kaushal-gosaliya?tab=profile)
 Kavan Pancholi (Ahmedabad, India) | [kavanpancholi](https://github.com/kavanpancholi) | [@kavanpancholi](https://medium.com/@kavanpancholi) | [kavan-pancholi](https://stackoverflow.com/users/2893123/kavan-pancholi)
 Mark Murphy (Pennsylvania, United States) | [commonsguy](https://github.com/commonsguy) |   | [commonsguy](https://stackoverflow.com/users/115145/commonsware)
 [Mayur Sojitra](https://www.murait.com/) ([Surat, India](https://goo.gl/maps/hvbHAJekX5ro8Bh48)) | [mayursojitra](https://github.com/mayursojitra) | [@mayursojitra](https://medium.com/@mayursojitra) | [mayur-sojitra](https://stackoverflow.com/users/1865488/mayur-sojitra)
