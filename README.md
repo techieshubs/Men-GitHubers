@@ -1,7 +1,7 @@
 # Men-GitHubers
 Let's collect the data of men on GitHub, who inspired you to code more.
 
-- [Contribution Guideline](https://github.com/pratikbutani/Men-GitHubers/blob/master/Contributing.md)
+- [Contribution Guideline](https://github.com/techieshubs/Men-GitHubers/blob/master/CONTRIBUTORS.md)
 
 ## Content
 
