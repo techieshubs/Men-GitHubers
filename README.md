@@ -20,7 +20,7 @@ Kavan Pancholi (Ahmedabad, India) | [kavanpancholi](https://github.com/kavanpanc
 Mark Murphy (Pennsylvania, United States) | [commonsguy](https://github.com/commonsguy) |   | [commonsguy](https://stackoverflow.com/users/115145/commonsware)
 [Mayur Sojitra](https://www.murait.com/) ([Surat, India](https://goo.gl/maps/hvbHAJekX5ro8Bh48)) | [mayursojitra](https://github.com/mayursojitra) | [@mayursojitra](https://medium.com/@mayursojitra) | [mayur-sojitra](https://stackoverflow.com/users/1865488/mayur-sojitra)
 Nikhil Butani (Ahmedabad, India) | [nikhilbuts](https://github.com/nikhilbuts) | [Nikhil Butani](https://medium.com/@nikhilbutani)
-Nikunj Paradva (Surat, India) | [fakefacebook](https://github.com/fakefacebook) | [@007.fakefacebook](https://medium.com/@007.fakefacebook) | [nikunj-paradva](https://stackoverflow.com/users/5773037/nikunj-paradva)
+Nikunj Paradva (Surat, India) | [nikunjparadva](https://github.com/nikunjparadva) | [@007.fakefacebook](https://medium.com/@007.fakefacebook) | [nikunj-paradva](https://stackoverflow.com/users/5773037/nikunj-paradva)
 [Pratik Butani](https://pratikbutani.com) (Ahmedabad, India) | [pratikbutani](https://github.com/pratikbutani) | [@pratikbutani](https://medium.com/@pratikbutani) | [pratik-butani](https://stackoverflow.com/users/1318946/pratik-butani)
 Pratik Parmar (Vadodara, India) | [HackyRoot](https://github.com/HackyRoot) | [@HackyRoot](https://medium.com/@hackyroot) | [pratik-parmar](https://stackoverflow.com/users/6338733/pratik-parmar)
 [Ravi Rupareliya](https://ravirupareliya.com) (Ahmedabad, India) | [ravirupareliya](https://github.com/ravirupareliya) | [@ravirupareliya](https://medium.com/@ravirupareliya) | [ravi-rupareliya](https://stackoverflow.com/users/3134215/ravi-rupareliya)
