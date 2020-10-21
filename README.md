@@ -10,7 +10,8 @@ Name | Github | Medium | StackOverflow
 Bharat Makwana (Ahmedabad, India) | [bharatmk257](https://github.com/bharatmk257) | [@bharatmk257](https://medium.com/@bharatmk257) | [bharatmk257](https://stackoverflow.com/cv/bharatmk257)
 Bhavik Makwana (Ahmedabad, India) | [ibhavikmakwana](https://github.com/ibhavikmakwana) | [@ibhavikmakwana](https://medium.com/@ibhavikmakwana) | [ibhavikmakwana](https://stackoverflow.com/users/7652758/ibhavikmakwana)
 Bipin Vayalu (Ahmedabad, India) | [bipinvaylu](https://github.com/bipinvaylu) | [@bipinvayalu](https://medium.com/@bipinvayalu) | [bipin-vayalu](https://stackoverflow.com/users/722683/bipin-vayalu)
-Dhruv Patel (Ahmedabad, India) | [DearDhruv](https://github.com/DearDhruv) | [@DearDhruv](https://medium.com/@DearDhruv) | [deardhruv](https://stackoverflow.com/users/596566/deardhruv)  
+Brandon McAnsh (Metro Detroit, MI) | [bmc08gt](https://github.com/bmc08gt) | 
+[Dhruv Patel] (https://deardhruv.com) (Ahmedabad, India)  | [DearDhruv](https://github.com/DearDhruv) | [@DearDhruv](https://medium.com/@DearDhruv) | [deardhruv](https://stackoverflow.com/users/596566/deardhruv)  
 Fenil Patel (Ahmedabad, India) | [Fenscode](https://github.com/Fenscode) | [@fenilpatel23](https://medium.com/@fenilpatel23) | [fenil-patel](https://stackoverflow.com/users/8769330/fenil-patel)
 Gabriel Peal (San Francisco, USA) | [gpeal](https://github.com/gpeal) | [@gpeal](https://medium.com/@gpeal)
 Jake Wharton (Pittsburgh, USA) | [JakeWharton](https://github.com/JakeWharton) | [@jakewharton](https://medium.com/@jakewharton)  | [jake-wharton](https://stackoverflow.com/users/132047/jake-wharton)
